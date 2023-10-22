@@ -1,5 +1,19 @@
 # Diwali_Sales_Exploratory_DA
 
+Worked on
+ - Changing Data Types
+ - Changing Column Names
+ - Dropping Zero Columns
+ - Replacing Null Values
+ - Removing Duplicates
+ - Checking Outliers
+ - Using IQR Method
+ - Removing Outliers
+ - Visualising using Bar Plot
+ - Finding a Correlation by using a Heatmap
+ - Finding out the relationship between variables using a pair plot.
+
+# In[1]:
 import pandas as pd
 import numpy as np
 import seaborn as sns
